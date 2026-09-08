@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 100%;
+    height: 100vh;
+    background: #333;
+}
+section{
+    width: 100%;
+    height: 35vh;
+    float: left; /* descolar do main */
+    padding: 1%;
+}
+#lol{
+    background: #c4a15b;
+}
+#cs2{
+    background: #d97A15;
+}
